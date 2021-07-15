@@ -1,1 +1,3 @@
-# Organization_And_Architecture_Term_Projects
+6th Semester
+Computer Organization And Architecture Course
+Term Projects
